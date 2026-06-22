@@ -1,0 +1,16 @@
+body {
+    background-color: honeydew;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: forestgreen;
+    text-align: center;
+}
+
+p {
+    color: darkslategray;
+    font-size: 18px;
+    line-height: 1.6;
+}
