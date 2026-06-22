@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cat Image and Hyperlink</title>
+</head>
+<body>
+    <h1>Cat</h1>
+    <img src="https://www.cdc.gov/healthy-pets/media/images/2024/04/Cat-on-couch.jpg" width="300">
+    <p>
+        <a href="https://en.wikipedia.org/wiki/Cat">
+            Learn More About Cats
+        </a>
+    </p>
+</body>
+</html>

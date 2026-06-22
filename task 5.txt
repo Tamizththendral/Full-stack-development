@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Inline CSS Example</title>
+</head>
+<body>
+    <h1 style="color: teal; font-size: 40px;">
+          Photography
+    </h1>
+    <p style="color: brown; font-size: 22px;">
+        Every picture tells a story and captures a moment that lasts forever.
+    </p>
+</body>
+</html>

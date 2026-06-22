@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple HTML Table</title>
+</head>
+<body>
+    <h2>Student Details</h2>
+
+    <table border="1">
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Department</th>
+        </tr>
+        <tr>
+            <td>A</td>
+            <td>20</td>
+            <td>Computer Science</td>
+        </tr>
+        <tr>
+            <td>B</td>
+            <td>19</td>
+            <td>Artificial Intelligence</td>
+        </tr>
+        <tr>
+            <td>C</td>
+            <td>21</td>
+            <td>Data Science</td>
+        </tr>
+    </table>
+</body>
+</html>

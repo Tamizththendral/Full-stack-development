@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Space Explorer</title>
+    <style>
+        body {
+            background-color: lightcyan;
+            font-family: Arial, sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to Space Explorer</h1>
+
+    <p>
+        Space is a vast and fascinating place filled with stars, planets,
+        galaxies, and many other celestial objects. Scientists and astronauts
+        work hard to explore the universe and discover its secrets.
+    </p>
+
+    <p>
+        Space missions have helped us learn more about planets such as Mars,
+        Jupiter, and Saturn. Modern telescopes can even capture images of
+        distant galaxies that are millions of light-years away.
+    </p>
+
+    <p>
+        The study of space inspires curiosity, innovation, and a better
+        understanding of our place in the universe.
+    </p>
+</body>
+</html>
